@@ -5,6 +5,7 @@
 !.gitignore
 !/src/
 !/src/**
+!README.md
 
 # Ignore IntelliJ IDEA project files
 .idea/
