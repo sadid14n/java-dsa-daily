@@ -16,6 +16,8 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 |-----|--------------------------------------------------------------|-----------------------|
 | 1   | Java basics, data types, conditionals, input/output          | [Day 01](./src/Day01) |
 | 2   | Nested if-else, ternary operator, switch statements          | [Day 02](./src/Day02) |
+| 3   | Loops (for, while, do-while), and beginner problem-solving | [Day 03](./src/Day03) |
+
 
 ---
 
