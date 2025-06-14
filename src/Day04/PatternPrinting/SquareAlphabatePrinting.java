@@ -4,9 +4,9 @@ import java.util.Scanner;
 
     //Output
     //Enter a number: 3
-    //A B C
-    //A B C
-    //A B C
+    //      A B C
+    //      A B C
+    //      A B C
 
 public class SquareAlphabatePrinting {
     public static void main(String[] args) {
