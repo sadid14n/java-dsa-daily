@@ -20,6 +20,8 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 4   | Methods in Java, pattern printing, and logic building        | [Day 04](./src/Day04) |
 | 5   | Advanced pattern problems (stars, numbers, characters)       | [Day 05](./src/Day05) |
 | 6   | Array & ArrayList basics, sorting, search, Two Sum, max/min  | [Day 06](./src/Day06) |
+| 7   | Reverse & rotate arrays, sort 0s and 1s (two-pointer method) | [Day 07](./src/Day07) |
+
 
 
 
