@@ -21,6 +21,8 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 5   | Advanced pattern problems (stars, numbers, characters)       | [Day 05](./src/Day05) |
 | 6   | Array & ArrayList basics, sorting, search, Two Sum, max/min  | [Day 06](./src/Day06) |
 | 7   | Reverse & rotate arrays, sort 0s and 1s (two-pointer method) | [Day 07](./src/Day07) |
+| 8   | Advanced array problems: subsets, duplicates, triplets, Dutch algo | [Day 08](./src/Day08) |
+
 
 
 
