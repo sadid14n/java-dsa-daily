@@ -22,6 +22,7 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 6   | Array & ArrayList basics, sorting, search, Two Sum, max/min  | [Day 06](./Day06) |
 | 7   | Reverse & rotate arrays, sort 0s and 1s (two-pointer method) | [Day 07](./Day07) |
 | 8   | Advanced array problems: subsets, duplicates, triplets, Dutch algo | [Day 08](./Day08) |
+| 9   | 2D arrays, matrix transpose, rotation, and element-wise ops  | [Day 09](./Day09) |
   
 
 ---
