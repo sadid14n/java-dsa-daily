@@ -24,6 +24,7 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 8   | Advanced array problems: subsets, duplicates, triplets, Dutch algo | [Day 08](./Day08) |
 | 9   | 2D arrays, matrix transpose, rotation, and element-wise ops  | [Day 09](./Day09) |
 | 10  | Matrix wave & spiral traversal, basics of 2D ArrayList       | [Day 10](./Day10) |
+| 11  | Matrix multiplication, Pascal's Triangle, Leetcode matrix problem | [Day 11](./Day11) |
   
 
 ---
