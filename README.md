@@ -25,6 +25,9 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 9   | 2D arrays, matrix transpose, rotation, and element-wise ops  | [Day 09](./src/Day09) |
 | 10  | Matrix wave & spiral traversal, basics of 2D ArrayList       | [Day 10](./src/Day10) |
 | 11  | Matrix multiplication, Pascal's Triangle, Leetcode matrix problem | [Day 11](./src/Day11) |
+| 12  | Search in 2D matrix, Set matrix zero (LeetCode problems)     | [Day 12](./src/Day12) |
+
+
 
 
 
