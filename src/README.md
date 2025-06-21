@@ -26,6 +26,7 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 10  | Matrix wave & spiral traversal, basics of 2D ArrayList       | [Day 10](./Day10) |
 | 11  | Matrix multiplication, Pascal's Triangle, Leetcode matrix problem | [Day 11](./Day11) |
 | 12  | Search in 2D matrix, Set matrix zero (LeetCode problems)     | [Day 12](./Day12) |
+| 13  | Matrix operations: spiral fill, max row sum, diagonals, rotation | [Day 13](./Day13) |
   
 
 ---
