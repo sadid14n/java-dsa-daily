@@ -28,6 +28,8 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 12  | Search in 2D matrix, Set matrix zero (LeetCode problems)     | [Day 12](./src/Day12) |
 | 13  | Matrix operations: spiral fill, max row sum, diagonals, rotation | [Day 13](./src/Day13) |
 | 14  | String basics and built-in methods (substring, compareTo, etc.) | [Day 14](./src/Day14) |
+| 15  | StringBuilder, anagram check, isomorphic check, word reversal, toggling | [Day 15](./src/Day15) |
+
 
 
 
