@@ -31,6 +31,8 @@ I'm committed to learning and sharing progress daily for the next 5 months (and 
 | 15  | StringBuilder, anagram check, isomorphic check, word reversal, toggling | [Day 15](./src/Day15) |
 | 16  | String problems: array anagram check, custom atoi, second largest digit, string compression | [Day 16](./src/Day16) |
 | 17  | Studied time & space complexity, solved problems (PDF)       | [Day 17](./src/Day17) |
+| 18  | Learned & implemented Bubble Sort                            | [Day 18](./src/Day18) |
+
 
 
 
